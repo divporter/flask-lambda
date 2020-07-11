@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "project_name": "flaskzappaserverless",
+        "runtime": "python3.7",
+        "s3_bucket": "flask-zappa-blog",
+        "aws_region":  "ap-southeast-2"
+    }
+}
